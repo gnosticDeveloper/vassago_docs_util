@@ -1,0 +1,17 @@
+[33mcommit 7a457d27c03ed1a58818379330ee4b1a546c3cbc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: gnosticDeveloper <gnosticdev.studio@proton.me>
+Date:   Sat Apr 18 01:27:16 2026 -0300
+
+    removed .gitignore from .idea folder
+
+[33mcommit 210724b80ae267cc6bf1a1607cf36ab7c32a8dbf[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gnosticDeveloper <gnosticdev.studio@proton.me>
+Date:   Sat Apr 18 00:54:49 2026 -0300
+
+    initial commit: vassago docs utility
+
+[33mcommit 1d4a8403e0d30ab53d85874c98cbab4876715a6c[m
+Author: gnosticDeveloper <gnosticdev.studio@proton.me>
+Date:   Sat Apr 18 01:06:12 2026 -0300
+
+    Initial commit
